@@ -21,3 +21,4 @@ Problem statement:
 4. Where a student has no _Score_, it should be '0' by default
 5. Add a constraint that prevents the ID and subject from taking **null values**
 6. Apply the folllowing modifications to the table, (A. Change column name "Subject" to "Course", B. Drop the "Age" column from the 'Students info' table.
+## Skills Demonstrated
